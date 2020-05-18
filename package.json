@@ -1,6 +1,6 @@
 {
   "name": "@react-component-contrib/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is react component cli",
   "main": "index.js",
   "bin": {
