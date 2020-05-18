@@ -1,6 +1,6 @@
 import { toMatchImageSnapshot } from 'jest-image-snapshot';
-import { e2e } from '../config';
+import { config } from '../package.json';
 
-global.TEST_URL = `http://localhost:${e2e.port}`;
+global.TEST_URL = `http://localhost:${config.e2e.port}`;
 
 expect.extend({ toMatchImageSnapshot });
