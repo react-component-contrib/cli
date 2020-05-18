@@ -8,7 +8,7 @@ module.exports = {
   },
   browser: 'chromium',
   server: {
-    command: `npx gulp -f ${paths.gulpfile} e2e`,
+    command: `npx gulp -f ${paths.gulpfile} e2e --cwd ${paths.context}`,
     port: config.e2e.port,
     launchTimeout: config.e2e.launchTimeout,
   },
