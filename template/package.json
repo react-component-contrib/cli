@@ -10,5 +10,17 @@
     "@react-component-contrib/util": "0.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "puppeteer": "^3.0.4"
+  },
+  "config": {
+    "e2e": {
+      "port": 8001,
+      "launchTimeout": 100000
+    },
+    "preview": {
+      "port": 8000
+    }
   }
 }
