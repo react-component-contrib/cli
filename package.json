@@ -44,6 +44,7 @@
     "jest-puppeteer": "^4.4.0",
     "less-loader": "^6.0.0",
     "mini-css-extract-plugin": "^0.9.0",
+    "react-app-polyfill": "^1.0.6",
     "ts-jest": "^25.3.1",
     "ts-loader": "^6.2.2",
     "tsconfig-paths-webpack-plugin": "^3.2.0",
