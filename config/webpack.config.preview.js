@@ -8,6 +8,7 @@ const config = require('./env');
 function join(...args) {
   return path.join(paths.preview, ...args);
 }
+
 module.exports = {
   mode: 'development',
   devtool: 'cheap-module-eval-source-map',
