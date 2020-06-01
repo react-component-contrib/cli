@@ -5,6 +5,12 @@
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "typescript",
+    "react-component"
+  ],
+  "author": "Your name",
   "dependencies": {
     "@react-component-contrib/style": "0.0.1",
     "@react-component-contrib/util": "0.0.3",
