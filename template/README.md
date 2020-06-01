@@ -51,9 +51,9 @@ ReactDOM.render(<App />, document.querySelector('#app'));
 
 ## 📝 API Reference
 
-| property | description | type | default |
+| Property | Description | Type | Default |
 | -------- | ----------- | :--: | :-----: |
-| property | description | type | default |
+| Property | Description | Type | Default |
 
 
 ## 🐛 Issues
